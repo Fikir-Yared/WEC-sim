@@ -1,9 +1,8 @@
 # 🌊 Wave Energy Converter Simulation
 
-An interactive **web-based wave energy converter (WEC) simulation** built with **Three.js**. This platform simulates realistic ocean waves and demonstrates how different converter designs extract energy from wave motion. It provides real-time visualization, performance metrics, and efficiency analysis through interactive 3D graphics and graphs.
-/screenshots/screenshot1.png
+An interactive **web-based wave energy converter (WEC) simulation** built with **Three.js**. This platform simulates realistic ocean waves and demonstrates how different converter designs extract energy from wave motion. It provides real-time visualization, performance metrics, and efficiency analysis through interactive 3D graphics and graphs.****
 ---
-
+/screenshots/screenshot_1.png
 ## Overview
 
 This project was developed to explore the physics and performance of wave energy converters in an interactive and visual way. Users can observe how ocean motion interacts with different converter types and how that motion is converted into usable energy.
